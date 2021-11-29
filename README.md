@@ -1,2 +1,3 @@
-# python-scrape
-python web scrapper. 
+# python web scrapper.
+
+## install requirements using 'pip3 install -r requirements.txt' command
