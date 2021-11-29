@@ -31,11 +31,13 @@ json_file = open('facts.json')
 data = json.load(json_file)
 
 #capture terminal input
-search = str(input())
+search = str(input("Enter Search here: \n"))
 
 #print data if it exist
-if data[search]: 
+if search in data: 
     print(data[search])
+else:
+    print("%s is not found in facts.json data" %search)
 
 #closes file after completed search
 json_file.close()
