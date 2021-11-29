@@ -1,4 +1,3 @@
-from ast import Num, Str
 from bs4 import BeautifulSoup
 import json
 import requests

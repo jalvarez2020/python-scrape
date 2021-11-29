@@ -1,0 +1,11 @@
+beautifulsoup4==4.10.0
+bs2json==0.0.1
+bs4==0.0.1
+certifi==2021.10.8
+chardet==3.0.4
+dropbox==10.7.0
+idna==2.10
+requests==2.24.0
+six==1.15.0
+soupsieve==2.3.1
+urllib3==1.25.11
